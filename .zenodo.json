@@ -1,0 +1,25 @@
+{
+  "title": "Atomic Semantic Firewall for System One Models: Exhaustive Atomic Rule-State Verification for High-Recall Semantic Quality Control",
+  "description": "Technical note proposing Atomic Semantic Firewall (ASF), an architecture designed for System One Models. ASF compiles large natural-language knowledge assets into atomic semantic constraints and performs exhaustive or near-exhaustive rule-state verification over bounded local state windows, escalating anomalies to System Two reasoning.",
+  "creators": [
+    {
+      "name": "Zhang, Liang"
+    }
+  ],
+  "publication_date": "2026-09-23",
+  "version": "0.1",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "System One Models",
+    "Atomic Semantic Firewall",
+    "semantic verification",
+    "atomic rules",
+    "high-recall QA",
+    "semantic linting",
+    "exhaustive verification",
+    "rule-state verification"
+  ],
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "access_right": "open"
+}
